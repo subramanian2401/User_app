@@ -1,0 +1,5 @@
+127.0.0.1 - - [27/May/2024:19:17:31 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [27/May/2024:19:17:38 +0530] "GET /User-App/WEB-INF/classes/org/jsp/user_mvc_app/Userconfiguration.java HTTP/1.1" 404 682
+127.0.0.1 - - [27/May/2024:19:17:56 +0530] "GET /User-App/ HTTP/1.1" 200 1290
+127.0.0.1 - - [27/May/2024:19:17:56 +0530] "GET /User-App/WEB-INF/views/css/style.css HTTP/1.1" 404 682
+127.0.0.1 - - [27/May/2024:19:18:11 +0530] "GET /User-App/open-login HTTP/1.1" 200 2485
